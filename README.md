@@ -1,3 +1,5 @@
+![](https://github.com/tborges/vue3-nuxt3/blob/main/assets/img/screenshot.jpg)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.

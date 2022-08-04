@@ -11,10 +11,8 @@ module.exports = {
   ],
   mode: "jit",
   // The dark mode feature is now enabled using the media strategy by default, so you can remove this key entirely
-  //darkMode: false, // or 'media' or 'class'
-  theme: {
-    extend: {},
-  },
+  darkMode: 'class', // or 'media' or 'class'
+  theme: {},
   variants: {
     extend: {},
   },
